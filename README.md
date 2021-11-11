@@ -1,1 +1,1 @@
-# css-hive
+# css-hive-contest
